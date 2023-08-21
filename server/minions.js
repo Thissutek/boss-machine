@@ -4,7 +4,7 @@ module.exports = minionsRouter;
 
 const {
     getAllFromDatabase, 
-    getFromDatabaseById
+    getFromDatabaseById,
     addToDatabase, 
     updateInstanceInDatabase, 
     deleteFromDatabasebyId
