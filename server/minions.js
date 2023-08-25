@@ -47,3 +47,7 @@ minionsRouter.delete('/:minionId', (req, res, next) => {
     }
     res.send();
 });
+
+minionsRouter.get('/:minionsId/work', (req, res, next) => {
+    
+});
